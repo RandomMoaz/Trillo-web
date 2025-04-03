@@ -12,8 +12,7 @@ Welcome to **Trillo Web** – a beautiful, modern web project built with ❤️ 
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript 🎨
-- **Backend:** (Specify if applicable) ⚙️
-- **Other Tools:** (Mention any frameworks, libraries, or services used) 🛠️
+- **Other Tools:** (Sass) 🛠️
 
 ## 📸 Preview
 Live Demo:https://randommoaz.github.io/Trillo-web/
